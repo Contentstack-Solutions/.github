@@ -1,4 +1,4 @@
-![Open Source at Microsoft](https://github.com/Contentstack-Solutions/.github/blob/main/images/Contentstack-Logo-GitHub.png) 
+![Contentstack](https://github.com/Contentstack-Solutions/.github/blob/main/images/Contentstack-Logo-GitHub.jpg?raw=true)
 
 ## Contentstack Solutions
 
